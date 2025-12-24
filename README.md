@@ -33,5 +33,5 @@ Notes
 - This PoC uses a symmetric JWT secret (`test-secret`) for iteration speed. Replace with environment-based secrets or public-key verification for production.
 - Keep the PoC experimental; it is intentionally small so you can adapt it quickly for your use cases.
 
-License
-- No license is specified in the PoC; add a license if you plan to publish it publicly.
+
+
